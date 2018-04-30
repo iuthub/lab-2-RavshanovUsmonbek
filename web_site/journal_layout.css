@@ -14,6 +14,7 @@ div#spatula
 	background-color: #E8FBFB;
 	padding: 5px;
 	margin-top: 10px;
+	overflow: auto;
 }
 div#cupcakes
 {
@@ -21,6 +22,7 @@ div#cupcakes
 	background-color: #E8FBFB;
 	padding: 5px;
 	margin-top: 10px;
+	overflow: auto;
 }
 span.date
 {
@@ -29,9 +31,14 @@ span.date
 div#header
 {
 	border:5px solid red;
+	text-align: right;
 
 }
 div#header h2
 {
 	border: 5px solid orange;
+}
+.images
+{
+	float: right;
 }
