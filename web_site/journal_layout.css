@@ -27,7 +27,7 @@ div#cupcakes
 }
 span.date
 {
-	border:2px dashed e #C2E9E9;
+	border:2px dashed  #C2E9E9;
 }
 div#header
 {
@@ -42,4 +42,15 @@ div#header h2
 .images
 {
 	float: right;
+}
+#Friends
+{
+border: 4px solid #C2E9E9;
+background-color: #E8FBFB;
+height: 200px;
+width: 190px;
+float: left;
+padding: 2px;
+margin-top: 20px;
+clear:both;
 }
